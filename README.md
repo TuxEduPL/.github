@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/logo.png" alt="TuxEdu Logo" width="280">
+  <img src="https://github.com/organizations/TuxEduPL/settings/profile" alt="TuxEdu Logo" width="280">
 </p>
 
 <h1 align="center">TuxEdu</h1>
