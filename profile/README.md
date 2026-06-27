@@ -44,11 +44,12 @@ Every feature is designed to address real-world challenges faced by schools, tea
 | Project                          | Description                                                       |
 | -------------------------------- | ----------------------------------------------------------------- |
 | 🐧 **TuxEdu OS**                 | Linux distribution designed for education                         |
-| 🖥️ **TuxEdu Classroom Manager** | Classroom management system for teachers and school computer labs |
+| 🖥️ **TuxEdu Classroom Manager**  | Classroom management system for teachers and school computer labs |
 | 📦 **TuxEdu Software Center**    | Software installation and management platform                     |
 | ⚙️ **TuxEdu Control Center**     | Simplified system configuration center                            |
 | 👋 **TuxEdu Welcome**            | First-run configuration wizard                                    |
-| 🧠 **TuxEdu AlgoLab**            | Modern environment for learning algorithms *(planned)*            |
+| 🌐 **TAMPP**                     | TuxEdu Apache MariaDB PHP PHPMyAdmin - Complete web development   |
+|                                  | environment based on Apache, MariaDB, PHP and phpMyAdmin          |
 
 ---
 
